@@ -20,7 +20,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy [Playing Simulation Games, watching TV shows, or playing basketball].
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://JoelForson.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://joelforson.github.io/Joel-Forson.github.io/)
       
 ## 🔭 What I've Currently Been Working On 
 
