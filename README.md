@@ -17,7 +17,7 @@ I'm an aspiring data analyst at Northeastern University, passionate about helpin
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating machine learning models that help businesses predict and prepare for the future.
 
-When I'm not working with data, I enjoy [Playing Simulation Games, watching TV shows, or playing basketball].
+When I'm not working with data, I enjoy playing Simulation Games, watching TV shows(currently big on Abbott Elementary), or playing rec basketball.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://joelforson.github.io/Joel-Forson.github.io/)
