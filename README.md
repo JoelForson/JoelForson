@@ -24,14 +24,11 @@ When I'm not working with data, I enjoy [Playing Simulation Games, watching TV s
       
 ## 🔭 What I've Currently Been Working On 
 
-- **Netflix Content Analysis:** Python-based data cleaning and clustering workflow to analyze 1,000+ Netflix titles. Used SQL, Pandas, and Seaborn to uncover correlations between content features and viewer engagement for strategic media insights. 
 - **Credit Score Analysis Project:** Analyzed a dataset to build a machine learning model that can classify the credit score of a person
 - **Brittish Airways Customer Insight Analysis:** Analyzed 1,300+ verified British Airways customer reviews to uncover patterns in satisfaction, sentiment, and service quality
 
 ## 🌱 Currently Learning 
-
-- Advanced machine learning techniques in Scikit-learn.
-- How to build full scale ML models implementing TensorFlow
+- Applicable Machine Learning Concepts with Customer Segmentation
 
 ## 🛠️ Technical Skillset
 
